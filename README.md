@@ -1,7 +1,7 @@
 ### Olá! Eu sou Iago Pinto
 
 - 🔭 Atualmente trabalho com Front end | Mobile
-- 🌱 Estou estudando React-Dom | React-native | Typescript
+- 🌱 E estou estudando React-Dom | React-native | Typescript
 
 <div>
   <a href="https://www.linkedin.com/in/iago-pinto-1b07aa208/">

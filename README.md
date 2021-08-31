@@ -1,7 +1,7 @@
 ### Olá! Eusou Iago Pinto
 
 - 🔭 Atualmente trabalho como Front end
-- 🌱 Estou estudando React-Dom | React-native | Typescrip
+- 🌱 Estou estudando React-Dom | React-native | Typescript
 
 <div>
   <a href="https://github.com/rafaballerini">
